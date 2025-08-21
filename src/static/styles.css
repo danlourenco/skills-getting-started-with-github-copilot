@@ -142,3 +142,14 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants-section {
+  margin-top: 10px;
+  padding-left: 4px;
+}
+
+.activity-card .participants-section .participants-list {
+  padding-left: 32px;
+  margin-top: 6px;
+  margin-bottom: 0;
+}
